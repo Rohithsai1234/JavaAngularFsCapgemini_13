@@ -1,0 +1,12 @@
+GIT 
+
+Version control
+ 
+1.Make a repository in github and local folder with same name
+2.open gitbash
+3.git init
+4.git add <file name with path>
+5.git branch -M main
+6.git remote add origin https://github.com/Rohithsai1234/JavaAngularFsCapgemini_13.git
+7.git push -u origin main
+8.all are done
